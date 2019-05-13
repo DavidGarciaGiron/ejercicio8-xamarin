@@ -1,0 +1,16 @@
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\Ejercicio08.deps.json
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\Ejercicio08.dll
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\bin\Debug\netstandard2.0\Ejercicio08.pdb
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.dll
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Ejercicio08.pdb
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\SimpleDemo.xaml.g.cs
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\InteractiveDemo.xaml.g.cs
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\CommandDemo.xaml.g.cs
+C:\Users\Hugo\source\repos\Ejercicio08\Ejercicio08\Ejercicio08\obj\Debug\netstandard2.0\Views\Operaciones.xaml.g.cs

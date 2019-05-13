@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ejercicio08"
+             x:Class="Ejercicio08.MainPage">
+    <StackLayout>
+        <Button x:Name="Item1" Text="Simple"/>
+        <Button x:Name="Item2" Text="Interactive"/>
+        <Button x:Name="Item3" Text="Command"/>
+        <Button x:Name="Item4" Text="Operaciones"/>
+        
+    </StackLayout>
+
+</ContentPage>
